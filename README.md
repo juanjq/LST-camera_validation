@@ -27,7 +27,7 @@ y-m-d-h:min:s  HV/not_HV  1/2/3   0/1/2/3/4/5   0/7/10/15/20
 6. Run all the notebook. Plots will be generated in a folder called `output` in same directory
 
 ---
-# Dark pedestal & pedestal with background
+# Dark pedestal & pedestal with background analysis: instructions to use
 
 # Pedestal recovery
 
