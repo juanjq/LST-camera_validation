@@ -28,7 +28,6 @@ You need to have installed `PyPDF2` python package, that can be installed using 
 # CrossTalk
 
 
-
 # Deadtime and Readout
 Here I only did the script to extract the times data of a run, i.e. the time where the events happen, not any more information. That is the information we need to perform the Deadtime analysis
 
