@@ -11,4 +11,4 @@ y-m-d-h:m:s  HV/not_HV  1/2/3   0/1/2/3/4/5   0/7/10/15/20
 ```
 And this ones will be the runs that we are going to extract the data.
 
-You need to have installed `PyPDF2` python package and the `LST` environement to be able to plot the information in the camera.
+You need to have installed `PyPDF2` python package and the `lstchain` environement to be able to plot the information in the camera.
