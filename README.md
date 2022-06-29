@@ -5,7 +5,7 @@ Scripts to do the tests for the validation of the LST cameras
 # Rate scans analysis: instructions to use
 ---
 
-1. Copy `.results` files from CaCo to your computer, inside some folder `.../folder/`
+1. Copy `.results` files from CaCo to your computer, inside some folder
 
 2. Copy the contents of the folder `rate_scans` all in same directory, from where we are going to run the script
 
