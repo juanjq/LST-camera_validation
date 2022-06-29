@@ -43,6 +43,13 @@ y-m-d-h:min:s  HV/not_HV  1/2/3   0/1/2/3/4/5   0/7/10/15/20
 Here I only did the script to extract the times data of a run, i.e. the time where the events happen, not any more information. That is the information we need to perform the Deadtime analysis
 
 # Camera plots
+---
+### For plotting the waveforms for the pixels in a determined run
+---
+### For plotting an event over the camera
+---
+### For getting an animation of some events
+---
 
 ### Geometry indexation
 
