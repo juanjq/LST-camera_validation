@@ -6,7 +6,7 @@ Scripts to do the tests for the validation of the LST cameras
 
 - Copy `.results` files from CaCo to your computer, inside some folder `.../folder/`
 
-- Copy the contents of the folder `rate_scans` all in same directory
+- Copy the contents of the folder `rate_scans` all in same directory, that where we are going to run the script
 
 - Note: You need to have different packages installed so in order to use it you will need to install `PyPDF2` with `conda install -c conda-forge pypdf2`, and not strictly requiered but recommended to use `lstchain` or `ctapipe` environements, see https://github.com/cta-observatory/ctapipe
 
