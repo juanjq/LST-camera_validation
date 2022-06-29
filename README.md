@@ -10,7 +10,7 @@ Scripts to do the tests for the validation of the LST cameras
 
 - Note: You need to have different packages installed so in order to use it you will need to install `PyPDF2` with `conda install -c conda-forge pypdf2`, and not strictly requiered but recommended to use `lstchain` or `ctapipe` environements, see https://github.com/cta-observatory/ctapipe
 
-- We need more information than what's inside the files, that we do not have in CaCo, this need to be written by hand in a file called `extra_data.txt` organised like this, (example file of LST-1 in the folder `rate_scans`)
+- We need more information than what's inside the files, that we do not have in CaCo, this need to be written by hand in a file called `extra_data.txt` organised like this, (example file used in LST-1 in the folder `rate_scans`)
 
 ```
 date           HV         DAC     neighbor      gain
@@ -18,6 +18,7 @@ y-m-d-h:min:s  HV/not_HV  1/2/3   0/1/2/3/4/5   0/7/10/15/20
 ```
 And this ones will be the runs that we are going to extract the data.
 
+- Once we have this we open the notebook `main.ipynb`, and complete the parameters section
 
 # Dark pedestal & pedestal with background
 
