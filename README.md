@@ -19,7 +19,7 @@ y-m-d-h:min:s  HV/not_HV  1/2/3   0/1/2/3/4/5   0/7/10/15/20
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And this ones will be the runs that we are going to extract the data. Put this file in same directory of the scripts.
 
-5. Once we have this we open the notebook `main.ipynb`, and complete the requiered parameters,
+5. Once we have this, we open the notebook `main.ipynb`, and complete the requiered parameters,
     - `data_type`, `='l0'` if we want to analyse the l0 or ipr runs (pixel analysis), and `='l1'` for the l0 data (cluster analysis)
     - `data_path`, the full directory name where we have the rate scans data (without final '/'), for example ,`'/data/cta/users-ifae/summer_students/jjimenezq'`
 
