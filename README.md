@@ -6,5 +6,6 @@ Scripts to do the tests for the validation of the LST cameras
 We need a bit more of information that is not saved by CaCo, this will be saved in a file called `extra_data.txt` organised like this,
 
 ```
-date \t HV \t neighbor \t DAC \t gain
+date         HV             DAC     neighbor      gain
+y-m-d-h:m:s  'HV'/'not_HV'  1/2/3   0/1/2/3/4/5   0/7/10/15/20
 ```
