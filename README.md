@@ -14,7 +14,11 @@ And this ones will be the runs that we are going to extract the data.
 You need to have installed `PyPDF2` python package, that can be installed using `conda install -c conda-forge pypdf2` at conda console. Also you need the `lstchain` environement to be able to plot the information in the camera, visit https://github.com/cta-observatory/ctapipe for more information.
 
 **How to use it**
-- Import `----.results` files from CaCo, and putting them in some folder `.../results/`
+- Copy `.results` files from CaCo to your computer, inside some folder `.../results/`
+- Copy the contents of the folder `rate_scans` in same directory
+
+
+- Note: You need to have different packages installed so in order to use it you will need to install `PyPDF2` with `conda install -c conda-forge pypdf2`, and not strictly requiered but recommended to use `lstchain` or `ctapipe` environements, see https://github.com/cta-observatory/ctapipe
 
 # Dark pedestal & pedestal with background
 
