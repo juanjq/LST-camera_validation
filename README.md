@@ -44,7 +44,7 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
 
 # Camera plots
 ---
-### For plotting the waveforms for the pixels in a determined run
+### For plotting the waveforms for the pixels of determined runs
 ---
 ### For plotting an event over the camera
 ---
