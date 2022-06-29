@@ -24,7 +24,7 @@ y-m-d-h:min:s  HV/not_HV  1/2/3   0/1/2/3/4/5   0/7/10/15/20
     - `data_path`, the full directory name where we have the rate scans data (without final '/'), for example, `'/data/cta/users-ifae/summer_students/jjimenezq'`
     - Other configuration is explained in the notebook, but is not necessary to change
 
-6. Run all the notebook. Plots will be generated in a folder called `output` in same directory
+6. Run all the notebook. Plots will be generated in a folder called `output` in same directory where we have the scripts
 
 ---
 # Dark pedestal & pedestal with background: instructions to use
