@@ -29,7 +29,6 @@ And this ones will be the runs that we are going to extract the data.
 
 # CrossTalk
 
-
 # Deadtime and Readout
 Here I only did the script to extract the times data of a run, i.e. the time where the events happen, not any more information. That is the information we need to perform the Deadtime analysis
 
