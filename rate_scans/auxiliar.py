@@ -311,7 +311,7 @@ def merge_pdfTOT(pdf_order,data_type,plot_camera,plot_run,data1run,voltageName):
         merger.close()  
         
         
-#matplotlib parameters used to do the plots
+# matplotlib parameters used to do the plots
 def parameters(n=6):
     plt.rcParams['mathtext.rm']         = 'Bitstream Vera Sans'
     plt.rcParams['mathtext.it']         = 'Bitstream Vera Sans:italic'
