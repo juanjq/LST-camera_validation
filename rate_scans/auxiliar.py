@@ -296,7 +296,7 @@ def merge_pdfTOT(pdf_order,data_type,plot_camera,plot_run,data1run,voltageName):
             
                 pdfs.append(pdf_order[i].replace('.pdf', '_r.pdf'))
 
-        #repairing all of the pdfs
+        # repairing all of the pdfs
         for i in range(len(pdf_order)):
             repair_pdf(pdf_order[i])
             
