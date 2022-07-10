@@ -71,7 +71,7 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
 ### Output:
 The respective 1855 waveforms for each pixel,
 <p align="center">
-    <img align="center" src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/waveforms.pdf">
+    <img align="center" src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/waveforms.png">
 </p>
 ## For plotting an event on the camera
 ### Instructions:
