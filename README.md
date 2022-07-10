@@ -2,23 +2,6 @@
 Scripts to do the tests for the validation of the LST cameras
 
 
-- [Rate scans analysis: instructions to use](#rate-scans-analysis--instructions-to-use)
-  * [Output:](#output-)
-- [Dark pedestal & pedestal with background: instructions to use](#dark-pedestal---pedestal-with-background--instructions-to-use)
-- [Pedestal recovery](#pedestal-recovery)
-- [CrossTalk](#crosstalk)
-- [Time resolution](#time-resolution)
-- [Deadtime](#deadtime)
-- [Camera plots](#camera-plots)
-    + [For plotting the waveforms for the pixels of determined runs](#for-plotting-the-waveforms-for-the-pixels-of-determined-runs)
-    + [For plotting an event over the camera](#for-plotting-an-event-over-the-camera)
-    + [For getting an animation of some events](#for-getting-an-animation-of-some-events)
-    + [Plot data from CaCo](#plot-data-from-caco)
-    + [Geometry indexation](#geometry-indexation)
-- [Historical monitoring](#historical-monitoring)
-- [Other things done](#other-things-done)
-    + [BP calibration scripts](#bp-calibration-scripts)
-
 # Rate scans analysis 
 ### Instructions to use
 
@@ -29,7 +12,7 @@ Scripts to do the tests for the validation of the LST cameras
 
 2. Copy the contents of this github folder `rate_scans` all in same directory, from where we are going to run the script
 
-3. We need more information than what's inside the files, that we do not have in CaCo, this needs to be written by hand in a file called `extra_data.txt` organised like this, matching the date in the doc and the date of the `.results` file (example file used in LST-1 in https://github.com/juanjq/LST_camera_validation/blob/main/rate_scans/extra_data.txt)
+3. We need more information than what's inside the files, that we do not have in CaCo, this needs to be written by hand in a file called `extra_data.txt` organised like this, matching the date in the doc and the date of the `.result` file (example file used in LST-1 in https://github.com/juanjq/LST_camera_validation/blob/main/rate_scans/extra_data.txt)
 
 ```
 date            HV          DAC     neighbor      gain
