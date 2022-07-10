@@ -1,4 +1,7 @@
-- [LST-camera validation](#lst-camera-validation)
+# LST-camera validation
+Scripts to do the tests for the validation of the LST cameras
+
+
 - [Rate scans analysis: instructions to use](#rate-scans-analysis--instructions-to-use)
   * [Output:](#output-)
 - [Dark pedestal & pedestal with background: instructions to use](#dark-pedestal---pedestal-with-background--instructions-to-use)
@@ -15,13 +18,6 @@
 - [Historical monitoring](#historical-monitoring)
 - [Other things done](#other-things-done)
     + [BP calibration scripts](#bp-calibration-scripts)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-# LST-camera validation
-Scripts to do the tests for the validation of the LST cameras
-
 
 # Rate scans analysis: instructions to use
 
