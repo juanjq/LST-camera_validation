@@ -58,6 +58,8 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
 
 ## For plotting an event over the camera
 ### Instructions:
+
+1. Copy the notebook `camera_plots.ipynb` from this github folder `camera_plots`
 ### Outplut:
 
 ## For getting an animation of some events
