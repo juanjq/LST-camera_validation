@@ -73,6 +73,9 @@ The respective 1855 waveforms for each pixel,
 <p align="center" width="20">
     <img align="center" src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/waveforms.png">
 </p>
+
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/waveforms.png" alt="drawing" width="200"/>
+
 ## For plotting an event on the camera
 ### Instructions:
 
