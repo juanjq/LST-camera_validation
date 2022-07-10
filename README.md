@@ -71,7 +71,7 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
 ### Output:
 The respective 1855 waveforms for each pixel,
 
-## For plotting an event over the camera
+## For plotting an event on the camera
 ### Instructions:
 
 1. Copy the notebook `camera_plots.ipynb` from this github folder: `plot_on_camera`
