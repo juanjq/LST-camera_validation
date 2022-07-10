@@ -28,6 +28,8 @@ y-m-d-h:min:s , HV/not_HV , 1/2/3 , 0/1/2/3/4/5 , 0/7/10/15/20
 5. Run all the notebook. Plots will be generated in a folder called `output` in same directory where you have the scripts
 
 ---
+## Output:
+
 # Dark pedestal & pedestal with background: instructions to use
 
 ---
