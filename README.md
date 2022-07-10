@@ -69,12 +69,9 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
 3. Go to the respective block for only 1 event plot or multiple plots, and run the notebook
 
 ### Output:
-The respective 1855 waveforms for each pixel,
-<p align="center" width="20">
-    <img align="center" src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/waveforms.png">
-</p>
 
-<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/waveforms.png" alt="drawing" width="200"/>
+
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/waveforms.png" align="center" alt="drawing" width="400"/>
 
 ## For plotting an event on the camera
 ### Instructions:
@@ -92,9 +89,9 @@ The respective 1855 waveforms for each pixel,
 
 ### Output:
 The plot of the mean waveform values for respective event plotted on the camera
-<p align="center">
-    <img align="center" src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/camera_plot.png">
-</p>
+
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/camera_plot.png" align="center" alt="drawing" width="400"/>
+
 ## For getting an animation of some events
 
 ## Plot data from CaCo
