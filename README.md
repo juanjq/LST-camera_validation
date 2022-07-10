@@ -89,7 +89,9 @@ The respective 1855 waveforms for each pixel,
 
 ### Output:
 The plot of the mean waveform values for respective event plotted on the camera
-
+<p align="center">
+    <img align="center" src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/plot_camera.png">
+</p>
 ## For getting an animation of some events
 
 ## Plot data from CaCo
