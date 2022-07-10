@@ -19,7 +19,8 @@ Scripts to do the tests for the validation of the LST cameras
 - [Other things done](#other-things-done)
     + [BP calibration scripts](#bp-calibration-scripts)
 
-# Rate scans analysis: instructions to use
+# Rate scans analysis 
+## Instructions to use
 
 (Note): You need to have installed `PyPDF2` package, you can do it with `conda install -c conda-forge pypdf2`, and also not strictly requiered but recommended to use `lstchain` or `ctapipe` environement, see https://github.com/cta-observatory
 
