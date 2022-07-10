@@ -55,6 +55,20 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
 # Camera plots
 
 ## For plotting the waveforms for the pixels of determined runs
+### Instructions:
+
+1. Copy the notebook `camera_plots.ipynb` from this github folder `plot_on_camera`
+
+2. Change the parameters inside the notebook:
+
+   * Run nummber
+   * Events to extract (a small number recommended < 100)
+   * Root folder with the location of the runs, with runs inside a folder with the name of the respective date.
+   * Number of LST
+
+3. Go to the respective block for only 1 event plot or multiple plots, and run the notebook
+
+### Output:
 
 ## For plotting an event over the camera
 ### Instructions:
@@ -67,6 +81,9 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
    * Events to extract (a small number recommended < 100)
    * Root folder with the location of the runs, with runs inside a folder with the name of the respective date.
    * Number of LST
+
+3. Go to the respective block for only 1 event plot or multiple plots, and run the notebook
+
 ### Output:
 
 ## For getting an animation of some events
