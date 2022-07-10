@@ -12,7 +12,7 @@ Scripts to do the tests for the validation of the LST cameras
 
 2. Copy the contents of this github folder `rate_scans` all in same directory, from where we are going to run the script
 
-3. We need more information than what's inside the files, that we do not have in CaCo, this needs to be written by hand in a file called `extra_data.txt` organised like this, matching the date in the doc and the date of the `.result` file (example file used in LST-1 in https://github.com/juanjq/LST_camera_validation/blob/main/rate_scans/extra_data.txt)
+3. We need more information than what's inside the files, that we do not have in CaCo, this needs to be written by hand in a file called `extra_data.txt` organised like this, matching the date in the doc and the date of the `.result` file (example of file used in LST-2 in https://github.com/juanjq/LST_camera_validation/blob/main/rate_scans/extra_data.txt)
 
 ```
 date            HV          DAC     neighbor      gain
