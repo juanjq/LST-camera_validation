@@ -69,6 +69,7 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
 3. Go to the respective block for only 1 event plot or multiple plots, and run the notebook
 
 ### Output:
+The respective 1855 waveforms for each pixel,
 
 ## For plotting an event over the camera
 ### Instructions:
@@ -85,6 +86,7 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
 3. Go to the respective block for only 1 event plot or multiple plots, and run the notebook
 
 ### Output:
+The plot of the mean waveform values for respective event plotted on the camera
 
 ## For getting an animation of some events
 
