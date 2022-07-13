@@ -77,7 +77,7 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
    * Run nummber
    * Events to extract (a small number recommended < 100)
    * Root folder with the location of the runs, with runs inside a folder with the name of the respective date.
-   * Number of LST
+   * Number of LST camera
 
 3. Go to the respective block for only 1 event plot or multiple plots, and run the notebook
 
@@ -96,7 +96,7 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
    * Run nummber
    * Events to extract (a small number recommended < 100)
    * Root folder with the location of the runs, with runs inside a folder with the name of the respective date.
-   * Number of LST
+   * Number of LST 
 
 3. Go to the respective block for only 1 event plot or multiple plots, and run the notebook
 
