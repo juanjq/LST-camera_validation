@@ -84,7 +84,6 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
 
 ### Output:
 
-
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/waveforms.png" align="center" alt="drawing" width="400"/>
 
 ## For plotting an event on the camera
