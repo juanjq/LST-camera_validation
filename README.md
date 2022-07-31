@@ -37,9 +37,6 @@ And the analysis of the 50% threshold with different plots,
 
 Also a `.pdf` separated with all the analysed data together for all the runs, tabulated in one plot
 
-<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/ratescans3.png" align="center" alt="drawing" width="400"/>
-
-
 # Dark pedestal & pedestal with background: instructions to use
 
 ---
