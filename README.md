@@ -4,7 +4,7 @@ Scripts to do the tests for the validation of the LST cameras
 # Rate scans analysis 
 ### Instructions to use
 
-(Note): You need to have installed `PyPDF2` package, you can do it with `conda install -c conda-forge pypdf2`, and also not strictly requiered but recommended to use `lstchain` or `ctapipe` environement, see https://github.com/cta-observatory
+(Note): You need to have installed `PyPDF2` package, you can do it with `conda install -c conda-forge pypdf2`, and also not strictly requiered but recommended to use `lstchain` or `ctapipe` environement, see [https://github.com/cta-observatory](https://github.com/cta-observatory/cta-lstchain)
  And execute `conda activate lst-dev` (or similar) before opening jupyter notebook.
 
  1. Copy `.result` files from CaCo to your computer or PIC, inside some folder
@@ -42,7 +42,7 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 
 ### Instructions to use
 
-(Note): In order to extract the raw data drom the camera you need the `lstchain` environement, see https://github.com/cta-observatory. And execute `conda activate lst-dev` (or similar) before opening jupyter notebook.
+(Note): In order to extract the raw data drom the camera you need the `lstchain` environement, see [https://github.com/cta-observatory](https://github.com/cta-observatory/cta-lstchain). And execute `conda activate lst-dev` (or similar) before opening jupyter notebook.
 
 
  1. Copy `.result` files from CaCo to your computer or PIC, inside some folder
