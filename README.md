@@ -39,7 +39,40 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 
 # Dark pedestal & pedestal with background: instructions to use
 
----
+### Instructions to use
+
+(Note): You need to have installed `PyPDF2` package, you can do it with `conda install -c conda-forge pypdf2`, and also not strictly requiered but recommended to use `lstchain` or `ctapipe` environement, see https://github.com/cta-observatory
+
+ 1. Copy `.result` files from CaCo to your computer or PIC, inside some folder
+
+2. Copy the contents of this github folder `rate_scans` all in same directory, from where we are going to run the script
+
+3. We need more information than what's inside the files, that we do not have in CaCo, this needs to be written by hand in a file called `extra_data.txt` organised like this, matching the date in the doc and the date of the `.result` file (example of file used in LST-2 in https://github.com/juanjq/LST_camera_validation/blob/main/rate_scans/extra_data.txt)
+
+```
+date            HV          DAC     neighbor      gain
+y-m-d-h:min:s , HV/not_HV , 1/2/3 , 0/1/2/3/4/5 , 0/7/10/15/20
+```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And this ones will be the runs that we are going to extract the data. Put this file in same directory of the scripts.
+
+4. Once we have this, we open the notebook `main.ipynb`, and complete the requiered parameters,
+    - `data_type`, we use `='l0'` if we want to analyse the L0 or ipr runs (pixel analysis), and `='l1'` for the L1 data (cluster analysis)
+    - `data_path`, the full directory name where we have the rate scans data (without final '/'), for example, `'/.../.../results'`
+    - Other configuration is explained in the notebook, but is not necessary to change
+
+5. Run all the notebook. Plots will be generated in a folder called `output` in same directory where you have the scripts
+
+### Output:
+
+You will get inside the `output` folder generated, a `.pdf` for each run, where you can find all the clusters/pixels fitted,
+
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/ratescans2.png" align="center" alt="drawing" width="400"/>
+
+And the analysis of the 50% threshold with different plots, 
+
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/ratescans1.png" align="center" alt="drawing" width="400"/>
+
+Also a `.pdf` separated with all the analysed data together for all the runs, tabulated in one plot
 
 # Pedestal recovery
 
