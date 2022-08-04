@@ -45,7 +45,7 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 (Note): Needed the `lstchain` environement in order to read R0 data.
 
 
-1. Copy the contents of github folder `dark-background_pedestal` in a folder (3 notebooks and 1 script)
+1. Copy the contents of github folder `dark-background_pedestal` in some directory
 
 2. First notebook to run is **`create_files_pedestal.ipynb`**, where we need to change the parameters,
     - `RUNS` the array of runs indexes we want to create the data
