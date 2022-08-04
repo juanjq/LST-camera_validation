@@ -61,13 +61,9 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 
 You will get inside the `graphs` folder different outputs:
 
-* The fourier signal (of pedestal, and stdv), and also for the nanosecond scale, for randomly selected pixels
+* The fourier signal (of pedestal, and stdv), and also for the nanosecond scale, for randomly selected pixels, the Histogram of the high frequencies, with the main one specified, histograms of all the data, and camera plots
 
-* The Histogram of the high frequencies, with the main one specified, histograms of all the data, and camera plots
-
-* Plots of the 60 seconds average for long runs (random pixels)
-
-* Plots of the 300 last and first second analysis, with calculated ratios
+* Plots of the 60 seconds average for long runs (random pixels) and plots of the 300 last and first second analysis, with calculated ratios
 
 # Pedestal recovery
 
