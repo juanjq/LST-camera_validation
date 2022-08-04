@@ -63,7 +63,11 @@ You will get inside the `graphs` folder different outputs:
 
 * The fourier signal (of pedestal, and stdv), and also for the nanosecond scale, for randomly selected pixels, the Histogram of the high frequencies, with the main one specified, histograms of all the data, and camera plots
 
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/allRuns.png" align="center" alt="drawing" width="1000"/>
+
 * Plots of the 60 seconds average for long runs (random pixels) and plots of the 300 last and first second analysis, with calculated ratios
+
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/longRuns.png" align="center" alt="drawing" width="1000"/>
 
 # Pedestal recovery
 
