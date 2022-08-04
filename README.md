@@ -84,7 +84,7 @@ You will get inside the `graphs` folder different outputs:
 
 
 # Deadtime
-Here I only did the script to extract the times data of a run, i.e. the time where the events happen, not any more information. That is the information we need to perform the Deadtime analysis
+Here I only did the script to extract the times data of a run, i.e. the time where the events happen, not any more information. That is the only information we need to perform the Deadtime analysis
 
 ---
 
