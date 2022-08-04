@@ -90,15 +90,15 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
 
 
 # Camera plots
-
+(Note): Needed the `lstchain` environement
 ## For plotting the waveforms for the pixels of determined runs
 ### Instructions:
 
-1. Copy the notebook `waveforms_plots.ipynb` from this github folder: `plot_on_camera`
+1. Copy the notebook **`waveforms_plots.ipynb`** from this github folder: `plot_on_camera`
 
 2. Change the parameters inside the notebook:
 
-   * Run nummber
+   * Run number
    * Events to extract (a small number recommended < 100)
    * Root folder with the location of the runs, with runs inside a folder with the name of the respective date.
    * Number of LST camera
@@ -112,7 +112,7 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
 ## For plotting an event on the camera
 ### Instructions:
 
-1. Copy the notebook `camera_plots.ipynb` from this github folder: `plot_on_camera`
+1. Copy the notebook **`camera_plots.ipynb`** from this github folder: `plot_on_camera`
 
 2. Change the parameters inside the notebook:
 
