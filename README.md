@@ -53,7 +53,10 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
     - `root` the complete path to all the folders with de data captured with the camera
     - Other configuration is explained in the notebook, but is not necessary to change
 
-3. We need more information than what's inside the files, that we do not have in CaCo, this needs to be written by hand in a file called `extra_data.txt` organised like this, matching the date in the doc and the date of the `.result` file (example of file used in LST-2 in https://github.com/juanjq/LST_camera_validation/blob/main/rate_scans/extra_data.txt)
+3. Run all the notebook for the pedestal analysis, and also the nanosecond scale analysis. (Pedestal analysis is slow, ~1h per run)
+
+
+5. We need more information than what's inside the files, that we do not have in CaCo, this needs to be written by hand in a file called `extra_data.txt` organised like this, matching the date in the doc and the date of the `.result` file (example of file used in LST-2 in https://github.com/juanjq/LST_camera_validation/blob/main/rate_scans/extra_data.txt)
 
 ```
 date            HV          DAC     neighbor      gain
