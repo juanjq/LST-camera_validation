@@ -81,7 +81,7 @@ You will get inside the `graphs` folder different outputs:
 Inside the created `graphs` folder we find:
 
 * An example of the neighbors selection for some pixels
-<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk.png" align="center" alt="drawing" width="900"/>
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk_neighbors.png" align="center" alt="drawing" width="900"/>
 
 * The histogram
 
