@@ -79,9 +79,15 @@ You will get inside the `graphs` folder different outputs:
 
 ### Instructions to use:
 
+1. First of all, as we implemented an optimization process to the file creation (restricting the pixels we look at), data need to be taken in the same way for all the LST validations.
+    * Data taken cluster by cluster in runs of 10 clusters, (70 pixels). So in total 27 runs
+    * Starting from cluster 1 in CaCo geometry, as we see in the figure,
+
+
+
 1. Copy the contents of github folder `crosstalk` in the same directory
 
-2. First notebook to run is **`create_files_pedestal.ipynb`**, where we need to change the parameters,
+2. First notebook to run is **`create_files_crosstalk.ipynb`**, where we need to change the parameters,
     - `RUNS` the array of runs indexes we want to create the data
     - `root` the complete path to all the folders with de data captured with the camera (with final `/`)
 
