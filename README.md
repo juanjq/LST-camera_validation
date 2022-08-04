@@ -41,7 +41,7 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 (Note): Needed the `lstchain` environement in order to read raw data.
 
 
-1. Copy the contents of github folder `dark-background_pedestal` in a folder (3 notebooks and 1 script)
+1. Copy the contents of github folder `dark-background_pedestal` in the same directory
 
 2. First notebook to run is **`create_files_pedestal.ipynb`**, where we need to change the parameters,
     - `RUNS` the array of runs indexes we want to create the data
@@ -79,7 +79,7 @@ You will get inside the `graphs` folder different outputs:
 
 ### Instructions to use:
 
-1. Copy the contents of github folder `crosstalk` in a folder (3 notebooks and 1 script)
+1. Copy the contents of github folder `crosstalk` in the same directory
 
 2. First notebook to run is **`create_files_pedestal.ipynb`**, where we need to change the parameters,
     - `RUNS` the array of runs indexes we want to create the data
@@ -102,7 +102,7 @@ Inside the created `graphs` folder we find:
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk_neighbors.png" align="center" alt="drawing" width="350"/>
 
 * The histogram of the **%CrossTalk** defined as the formula below, for the 3 different neighbor cases
-* 
+
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk.png" align="center" alt="drawing" width="550"/>
 
 # Time resolution
