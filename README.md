@@ -42,7 +42,7 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 
 ### Instructions to use
 
-(Note): Needed the `lstchain` environement in order to read raw data.
+(Note): Needed the `lstchain` environement in order to read R0 data.
 
 
 1. Copy the contents of github folder `dark-background_pedestal` in a folder (3 notebooks and 1 script)
