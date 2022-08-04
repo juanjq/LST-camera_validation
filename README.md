@@ -8,7 +8,10 @@ Scripts to do the tests for the validation of the LST cameras.
 
 (Note): You need to have installed `PyPDF2` package, you can do it with `conda install -c conda-forge pypdf2`, and also not strictly requiered but recommended to use `lstchain` or `ctapipe` environements.
 
- 1. Copy `.result` files from CaCo to your computer or PIC, inside some folder
+ 1. Copy the contents of this github folder `dark-background_pedestal` in a folder (3 notebooks and 1 script)
+ 2. 
+ 3. 
+ 4. Copy `.result` files from CaCo to your computer or PIC, inside some folder
 
 2. Copy the contents of this github folder `rate_scans` all in same directory, from where we are going to run the script
 
