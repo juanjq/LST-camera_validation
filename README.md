@@ -82,6 +82,7 @@ You will get inside the `graphs` folder different outputs:
 1. First of all, as we implemented an optimization process to the file creation (restricting the pixels we look at), data need to be taken in the same way for all the LST validations.
     * Data taken cluster by cluster in runs of 10 clusters, (70 pixels). So in total 27 runs
     * Starting from cluster 1 in CaCo geometry, as we see in the figure,
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/clusters_crosstalk.png" align="center" alt="drawing" width="350"/>
 
 
 
