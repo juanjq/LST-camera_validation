@@ -129,6 +129,10 @@ The plot of the mean waveform values for respective event plotted on the camera
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/camera_plot.png" align="center" alt="drawing" width="400"/>
 
 ## For getting an animation of some events
+(Note): 
+### Instructions
+
+### Outputs
 
 ## Plot data from CaCo
 
