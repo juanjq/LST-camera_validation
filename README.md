@@ -48,7 +48,10 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 
 1. Copy the contents of github folder `dark-background_pedestal` in a folder (3 notebooks and 1 script)
 
-2. First notebook to run is `**create_files_pedestal.ipynb**`, where we need to change the parameters,
+2. First notebook to run is **`create_files_pedestal.ipynb`**, where we need to change the parameters,
+    - `RUNS` the array of runs indexes we want to create the data
+    - `root` the complete path to all the folders with de data captured with the camera
+    - Other configuration is explained in the notebook, but is not necessary to change
 
 3. We need more information than what's inside the files, that we do not have in CaCo, this needs to be written by hand in a file called `extra_data.txt` organised like this, matching the date in the doc and the date of the `.result` file (example of file used in LST-2 in https://github.com/juanjq/LST_camera_validation/blob/main/rate_scans/extra_data.txt)
 
