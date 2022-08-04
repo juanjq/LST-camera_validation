@@ -39,11 +39,11 @@ And the analysis of the 50% threshold with different plots,
 
 Also a `.pdf` separated with all the analysed data together for all the runs, tabulated in one plot
 
-# Dark pedestal & pedestal with background: instructions to use
+# Dark pedestal & pedestal with background
 
 ### Instructions to use
 
-(Note): In order to extract the raw data drom the camera you need the `lstchain` environement.
+(Note): Needed the `lstchain` environement in order to read raw data.
 
 
  1. Copy `.result` files from CaCo to your computer or PIC, inside some folder
