@@ -45,7 +45,7 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 
 2. First notebook to run is **`create_files_pedestal.ipynb`**, where we need to change the parameters,
     - `RUNS` the array of runs indexes we want to create the data
-    - `root` the complete path to all the folders with de data captured with the camera
+    - `root` the complete path to all the folders with de data captured with the camera (with final `/`)
 
 3. Run all the notebook. (Pedestal analysis is slow, ~1h per run)
 
@@ -55,7 +55,7 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 
 5. For the analysis of long runs, (the average over minutes, and the 300 last and first seconds), you need to run all the notebook **`analysis_longRuns.ipynb`**, with the parameters,
     - `RUNS` array with the Long Runs
-    - `root` the complete path to all the folders with de data captured with the camera
+    - `root` the complete path to all the folders with de data captured with the camera (with final `/`)
 
 ### Output:
 
