@@ -30,7 +30,7 @@ y-m-d-h:min:s , HV/not_HV , 1/2/3 , 0/1/2/3/4/5 , 0/7/10/15/20
 
 You will get inside the `output` folder generated, a `.pdf` for each run, where you can find all the clusters/pixels fitted, and the different types of analysis of the 50% threshold with different plots, 
 
-<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/ratescans.png" align="center" alt="drawing" width="550"/>
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/ratescans.png" align="center" alt="drawing" width="650"/>
 
 Also a `.pdf` separated with all the analysed data together for all the runs, tabulated in one plot
 
