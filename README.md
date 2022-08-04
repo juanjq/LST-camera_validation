@@ -47,7 +47,7 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
     - `RUNS` the array of runs indexes we want to create the data
     - `root` the complete path to all the folders with de data captured with the camera (with final `/`)
 
-3. Run all the notebook. (Pedestal analysis is slow, ~1h per run)
+3. Run all the notebook. (Pedestal analysis is slow, ~1h per subrun)
 
 4. Once all the files are created we can run all the notebook **`analysis_allRuns.ipynb`**, with the parameters,
     - `RUNS` the array of runs indexes we want to analyse
