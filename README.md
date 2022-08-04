@@ -78,6 +78,12 @@ You will get inside the `graphs` folder different outputs:
 (Note): Needed the `lstchain` environement in order to read raw data.
 ### Instructions to use:
 ### Output:
+Inside the created `graphs` folder we find:
+
+* An example of the neighbors selection for some pixels
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/longRuns.png" align="center" alt="drawing" width="900"/>
+
+* The histogram
 
 # Time resolution
 (Note): Needed the `lstchain` environement in order to read raw data.
