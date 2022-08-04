@@ -65,13 +65,13 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 
 You will get inside the `graphs` folder different outputs:
 
-<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/ratescans2.png" align="center" alt="drawing" width="400"/>
+* The fourier signal (of pedestal, and stdv), and also for the nanosecond scale, for randomly selected pixels
 
-And the analysis of the 50% threshold with different plots, 
+* The Histogram of the high frequencies, with the main one specified, histograms of all the data, and camera plots
 
-<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/ratescans1.png" align="center" alt="drawing" width="400"/>
+* Plots of the 60 seconds average for long runs (random pixels)
 
-Also a `.pdf` separated with all the analysed data together for all the runs, tabulated in one plot
+* Plots of the 300 last and first second analysis, with calculated ratios
 
 # Pedestal recovery
 
