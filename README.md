@@ -33,6 +33,7 @@ You will get inside the `output` folder generated, a `.pdf` for each run, where 
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/ratescans.png" align="center" alt="drawing" width="650"/>
 
 Also a `.pdf` separated with all the analysed data together for all the runs, tabulated in one plot
+
 ---
 # Dark pedestal & pedestal with background
 
