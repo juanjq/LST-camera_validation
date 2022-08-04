@@ -23,7 +23,6 @@ y-m-d-h:min:s , HV/not_HV , 1/2/3 , 0/1/2/3/4/5 , 0/7/10/15/20
 4. Once we have this, we open the notebook `**main.ipynb**`, and complete the requiered parameters,
     - `data_type`, we use `='l0'` if we want to analyse the L0 or ipr runs (pixel analysis), and `='l1'` for the L1 data (cluster analysis)
     - `data_path`, the full directory name where we have the rate scans data (without final '/'), for example, `'/.../.../results'`
-    - Other configuration is explained in the notebook, but is not necessary to change
 
 5. Run all the notebook. Plots will be generated in a folder called `output` in same directory where you have the scripts
 
@@ -51,25 +50,16 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 2. First notebook to run is **`create_files_pedestal.ipynb`**, where we need to change the parameters,
     - `RUNS` the array of runs indexes we want to create the data
     - `root` the complete path to all the folders with de data captured with the camera
-    - Other configuration is explained in the notebook, but is not necessary to change
 
-3. Run all the notebook for the pedestal analysis, and also the nanosecond scale analysis. (Pedestal analysis is slow, ~1h per run)
+3. Run all the notebook. (Pedestal analysis is slow, ~1h per run)
 
+4. Once all the files are created we can run all the notebook **`analysis_allRuns.ipynb`**, with the parameters,
+    - `RUNS` the array of runs indexes we want to analyse
+    - `root` the complete path to all the folders with de data captured with the camera
 
-5. We need more information than what's inside the files, that we do not have in CaCo, this needs to be written by hand in a file called `extra_data.txt` organised like this, matching the date in the doc and the date of the `.result` file (example of file used in LST-2 in https://github.com/juanjq/LST_camera_validation/blob/main/rate_scans/extra_data.txt)
-
-```
-date            HV          DAC     neighbor      gain
-y-m-d-h:min:s , HV/not_HV , 1/2/3 , 0/1/2/3/4/5 , 0/7/10/15/20
-```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And this ones will be the runs that we are going to extract the data. Put this file in same directory of the scripts.
-
-4. Once we have this, we open the notebook `main.ipynb`, and complete the requiered parameters,
-    - `data_type`, we use `='l0'` if we want to analyse the L0 or ipr runs (pixel analysis), and `='l1'` for the L1 data (cluster analysis)
-    - `data_path`, the full directory name where we have the rate scans data (without final '/'), for example, `'/.../.../results'`
-    - Other configuration is explained in the notebook, but is not necessary to change
-
-5. Run all the notebook. Plots will be generated in a folder called `output` in same directory where you have the scripts
+5. For the analysis of long runs, (the average over minutes, and the 300 last and first seconds), you need to run all the notebook **`analysis_allRuns.ipynb`**, with the parameters,
+    - `RUNS` array with the Long Runs
+    - `root` the complete path to all the folders with de data captured with the camera
 
 ### Output:
 
