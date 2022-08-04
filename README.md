@@ -4,7 +4,7 @@ Scripts to do the tests for the validation of the LST cameras.
 (Note): About the `lstchain` or `ctapipe` environements, needed in some stages of the analysis, see [https://github.com/cta-observatory](https://github.com/cta-observatory/cta-lstchain). You will need to execute `conda activate lst-dev` (or similar) before opening jupyter notebook.
 
 # Rate scans analysis 
-### Instructions to use
+### Instructions to use:
 
 (Note): You need to have installed `PyPDF2` package, you can do it with `conda install -c conda-forge pypdf2`, and also not strictly requiered but recommended to use `lstchain` or `ctapipe` environements.
 
@@ -36,7 +36,7 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 
 # Dark pedestal & pedestal with background
 
-### Instructions to use
+### Instructions to use:
 
 (Note): Needed the `lstchain` environement in order to read raw data.
 
@@ -71,19 +71,19 @@ You will get inside the `graphs` folder different outputs:
 
 # Pedestal recovery
 (Note): Needed the `lstchain` environement in order to read raw data.
-### Instructions to use
+### Instructions to use:
 ### Output:
 ---
 
 # CrossTalk
 (Note): Needed the `lstchain` environement in order to read raw data.
-### Instructions to use
+### Instructions to use:
 ### Output:
 ---
 
 # Time resolution
 (Note): Needed the `lstchain` environement in order to read raw data.
-### Instructions to use
+### Instructions to use:
 ### Output:
 ---
 
@@ -91,7 +91,7 @@ You will get inside the `graphs` folder different outputs:
 # Deadtime
 Here I only did the script to extract the times data of a run, i.e. the time where the events happen, not any more information. That is the only information we need to perform the Deadtime analysis
 (Note): Needed the `lstchain` environement in order to read raw data.
-### Instructions to use
+### Instructions to use:
 ### Output:
 ---
 
