@@ -34,7 +34,6 @@ You will get inside the `output` folder generated, a `.pdf` for each run, where 
 
 Also a `.pdf` separated with all the analysed data together for all the runs, tabulated in one plot
 
----
 # Dark pedestal & pedestal with background
 
 ### Instructions to use:
@@ -74,19 +73,16 @@ You will get inside the `graphs` folder different outputs:
 (Note): Needed the `lstchain` environement in order to read raw data.
 ### Instructions to use:
 ### Output:
----
 
 # CrossTalk
 (Note): Needed the `lstchain` environement in order to read raw data.
 ### Instructions to use:
 ### Output:
----
 
 # Time resolution
 (Note): Needed the `lstchain` environement in order to read raw data.
 ### Instructions to use:
 ### Output:
----
 
 
 # Deadtime
@@ -94,7 +90,6 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
 (Note): Needed the `lstchain` environement in order to read raw data.
 ### Instructions to use:
 ### Output:
----
 
 
 # Camera plots
