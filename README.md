@@ -67,7 +67,7 @@ You will get inside the `graphs` folder different outputs:
 
 * Plots of the 60 seconds average for long runs (random pixels) and plots of the 300 last and first second analysis, with calculated ratios
 
-<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/longRuns.png" align="center" alt="drawing" width="1000"/>
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/longRuns.png" align="center" alt="drawing" width="900"/>
 
 # Pedestal recovery
 
