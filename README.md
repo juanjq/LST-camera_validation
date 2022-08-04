@@ -70,22 +70,29 @@ You will get inside the `graphs` folder different outputs:
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/longRuns.png" align="center" alt="drawing" width="900"/>
 
 # Pedestal recovery
-
+(Note): Needed the `lstchain` environement in order to read raw data.
+### Instructions to use
+### Output:
 ---
 
 # CrossTalk
-
-
+(Note): Needed the `lstchain` environement in order to read raw data.
+### Instructions to use
+### Output:
 ---
 
 # Time resolution
-
+(Note): Needed the `lstchain` environement in order to read raw data.
+### Instructions to use
+### Output:
 ---
 
 
 # Deadtime
 Here I only did the script to extract the times data of a run, i.e. the time where the events happen, not any more information. That is the only information we need to perform the Deadtime analysis
-
+(Note): Needed the `lstchain` environement in order to read raw data.
+### Instructions to use
+### Output:
 ---
 
 
