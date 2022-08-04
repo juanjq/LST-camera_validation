@@ -8,9 +8,9 @@ Scripts to do the tests for the validation of the LST cameras.
 
 (Note): You need to have installed `PyPDF2` package, you can do it with `conda install -c conda-forge pypdf2`, and also not strictly requiered but recommended to use `lstchain` or `ctapipe` environements.
 
-1. Copy `.result` files from CaCo to your computer or PIC, inside some folder
+1. Copy `.result` files from CaCo to your computer or PIC, inside some folder.
 
-2. Copy the contents of the github folder `rate_scans` all in same directory, from where we are going to run the script
+2. Copy the contents of the github folder `rate_scans` all in same directory, from where we are going to run the script.
 
 3. We need more information than what's inside the files, that we do not have in CaCo, this needs to be written by hand in a file called `extra_data.txt` organised like this, matching the date in the doc and the date of the `.result` file (example of file used in LST-2 in https://github.com/juanjq/LST_camera_validation/blob/main/rate_scans/extra_data.txt)
 a
