@@ -120,7 +120,6 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
     - `root` the complete path to all the folders with de data captured with the camera (with final `/`)
 
 ### Output:
-### Output:
 
 
 # Camera plots
