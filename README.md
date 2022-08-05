@@ -35,7 +35,6 @@ You will get inside the `output` folder generated, a `.pdf` for each run, where 
 Also a `.pdf` separated with all the analysed data together for all the runs, tabulated in one plot
 
 # Dark pedestal & pedestal with background
-
 ### Instructions to use:
 
 (Note): Needed the `lstchain` environement in order to read raw data.
