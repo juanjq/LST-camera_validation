@@ -112,6 +112,14 @@ Inside the created `graphs` folder we find:
 Here I only did the script to extract the times data of a run, i.e. the time where the events happen, not any more information. That is the only information we need to perform the Deadtime analysis
 (Note): Needed the `lstchain` environement in order to read raw data.
 ### Instructions to use:
+1. Copy the contents of github folder `deadtime` in the same directory
+
+2. Run the notebook **`create_files_timeonly.ipynb`**, where we need to change the parameters,
+    - `RUNS` the array of runs indexes we want to create the data
+    - `RATES` the rates used in each run, only used for the name of the file
+    - `root` the complete path to all the folders with de data captured with the camera (with final `/`)
+
+### Output:
 ### Output:
 
 
