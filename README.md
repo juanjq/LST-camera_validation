@@ -102,11 +102,6 @@ Inside the created `graphs` folder we find:
 
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk.png" align="center" alt="drawing" width="550"/>
 
-# Time resolution
-### Instructions to use:
-(Note): Needed the `lstchain` environement in order to read raw data.
-### Output:
-
 
 # Deadtime
 Here I only did the script to extract the times data of a run, i.e. the time where the events happen, not any more information. That is the only information we need to perform the Deadtime analysis
