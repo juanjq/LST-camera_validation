@@ -72,6 +72,12 @@ You will get inside the `graphs` folder different outputs:
 (Note): Needed the `lstchain` environement in order to read R0 data.
 ### Output:
 
+# Time resolution
+### Instructions to use:
+(Note): Needed the `lstchain` environement in order to read R0 data.
+### Output:
+
+
 # CrossTalk
 ### Instructions to use:
 (Note): Needed the `lstchain` environement in order to read R0 data.
