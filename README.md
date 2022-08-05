@@ -69,7 +69,6 @@ You will get inside the `graphs` folder different outputs:
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/longRuns.png" align="center" alt="drawing" width="900"/>
 
 # Pedestal recovery
-
 ### Instructions to use:
 (Note): Needed the `lstchain` environement in order to read raw data.
 ### Output:
