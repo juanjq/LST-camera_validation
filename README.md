@@ -74,7 +74,7 @@ You will get inside the `graphs` folder different outputs:
 
 # CrossTalk
 ### Instructions to use:
-(Note): Needed the `lstchain` environement in order to read raw data.
+(Note): Needed the `lstchain` environement in order to read R0 data.
 
 1. First of all, as we implemented an optimization process to the file creation (restricting the pixels we look at), data need to be taken in the same way for all the LST validations.
     * Data taken cluster by cluster in runs of 10 clusters, (70 pixels). So in total 27 runs
