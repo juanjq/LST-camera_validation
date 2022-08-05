@@ -36,7 +36,6 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 
 # Dark pedestal & pedestal with background
 ### Instructions to use:
-
 (Note): Needed the `lstchain` environement in order to read raw data.
 
 
