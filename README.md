@@ -36,7 +36,7 @@ Also a `.pdf` separated with all the analysed data together for all the runs, ta
 
 # Dark pedestal & pedestal with background
 ### Instructions to use:
-(Note): Needed the `lstchain` environement in order to read raw data.
+(Note): Needed the `lstchain` environement in order to read R0 data.
 
 
 1. Copy the contents of github folder `dark-background_pedestal` in the same directory
@@ -69,7 +69,7 @@ You will get inside the `graphs` folder different outputs:
 
 # Pedestal recovery
 ### Instructions to use:
-(Note): Needed the `lstchain` environement in order to read raw data.
+(Note): Needed the `lstchain` environement in order to read R0 data.
 ### Output:
 
 # CrossTalk
@@ -105,7 +105,7 @@ Inside the created `graphs` folder we find:
 
 # Deadtime
 Here I only did the script to extract the times data of a run, i.e. the time where the events happen, not any more information. That is the only information we need to perform the Deadtime analysis
-(Note): Needed the `lstchain` environement in order to read raw data.
+(Note): Needed the `lstchain` environement in order to read R0 data.
 ### Instructions to use:
 1. Copy the contents of github folder `deadtime` in the same directory
 
