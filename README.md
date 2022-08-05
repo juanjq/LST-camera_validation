@@ -74,8 +74,6 @@ You will get inside the `graphs` folder different outputs:
 ### Output:
 
 # CrossTalk
-
-
 ### Instructions to use:
 (Note): Needed the `lstchain` environement in order to read raw data.
 
