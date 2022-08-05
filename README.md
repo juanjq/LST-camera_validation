@@ -105,7 +105,6 @@ Inside the created `graphs` folder we find:
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk.png" align="center" alt="drawing" width="550"/>
 
 # Time resolution
-
 ### Instructions to use:
 (Note): Needed the `lstchain` environement in order to read raw data.
 ### Output:
