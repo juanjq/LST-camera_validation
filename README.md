@@ -1,5 +1,6 @@
 # LST-camera validation
-Scripts to do the tests for the validation of the LST cameras.
+Scripts to do the tests for the validation of the LST cameras. 
+(Note): About the `lstchain` or `ctapipe` environements, needed in some stages of the analysis, see [https://github.com/cta-observatory](https://github.com/cta-observatory/cta-lstchain). You will need to execute `conda activate lst-dev` (or similar) before opening jupyter notebook.
 
 ## Table Of Contents
 
@@ -19,9 +20,6 @@ Scripts to do the tests for the validation of the LST cameras.
   * [For plotting the waveforms for the pixels of determined runs](#for-plotting-the-waveforms-for-the-pixels-of-determined-runs)
 
   * [For plotting an event on the camera](#for-plotting-an-event-on-the-camera)
-
-
-(Note): About the `lstchain` or `ctapipe` environements, needed in some stages of the analysis, see [https://github.com/cta-observatory](https://github.com/cta-observatory/cta-lstchain). You will need to execute `conda activate lst-dev` (or similar) before opening jupyter notebook.
 
 # Rate scans analysis 
 ### Instructions to use:
