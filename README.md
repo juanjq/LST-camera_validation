@@ -123,7 +123,7 @@ In the `graphics` folder you will get, the pedestal and stdv in function of the 
     * Data taken cluster by cluster in runs of 10 clusters, (70 pixels). So in total 27 runs
     * Starting from cluster 1 in CaCo geometry, as we see in the figure,
 <p align="center">
-  <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/cluster_crosstalk.png" align="center" alt="drawing" width="250"/>
+  <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/cluster_crosstalk.png" align="center" alt="drawing" width="350"/>
 </p>
 
 2. Once we have taken ALL the runs we copy the contents of github folder `crosstalk` in the same directory
@@ -143,7 +143,7 @@ Inside the created `graphs` folder we find:
 * An example of the neighbors selection for some pixels
 
 <p align="center">
-<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk_neighbors.png" align="center" alt="drawing" width="420"/>
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk_neighbors.png" align="center" alt="drawing" width="400"/>
 </p>
 
 * The histogram of the **%CrossTalk** defined as the formula below, for the 3 different neighbor cases
