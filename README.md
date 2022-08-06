@@ -1,6 +1,36 @@
 # LST-camera validation
 Scripts to do the tests for the validation of the LST cameras.
 
+- [LST-camera validation](#lst-camera-validation)
+- [Rate scans analysis](#rate-scans-analysis)
+    + [Instructions to use:](#instructions-to-use-)
+    + [Output:](#output-)
+- [Dark pedestal & pedestal with background](#dark-pedestal---pedestal-with-background)
+    + [Instructions to use:](#instructions-to-use--1)
+    + [Output:](#output--1)
+- [Pedestal recovery](#pedestal-recovery)
+    + [Instructions to use:](#instructions-to-use--2)
+    + [Output:](#output--2)
+- [Time resolution](#time-resolution)
+    + [Instructions to use:](#instructions-to-use--3)
+    + [Output:](#output--3)
+- [CrossTalk](#crosstalk)
+    + [Instructions to use:](#instructions-to-use--4)
+    + [Output:](#output--4)
+- [Deadtime](#deadtime)
+    + [Instructions to use:](#instructions-to-use--5)
+    + [Output:](#output--5)
+- [Camera plots](#camera-plots)
+  * [For plotting the waveforms for the pixels of determined runs](#for-plotting-the-waveforms-for-the-pixels-of-determined-runs)
+    + [Instructions:](#instructions-)
+    + [Output:](#output--6)
+  * [For plotting an event on the camera](#for-plotting-an-event-on-the-camera)
+    + [Instructions:](#instructions--1)
+    + [Output:](#output--7)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 (Note): About the `lstchain` or `ctapipe` environements, needed in some stages of the analysis, see [https://github.com/cta-observatory](https://github.com/cta-observatory/cta-lstchain). You will need to execute `conda activate lst-dev` (or similar) before opening jupyter notebook.
 
 # Rate scans analysis 
