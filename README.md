@@ -30,6 +30,7 @@ y-m-d-h:min:s , HV/not_HV , 1/2/3 , 0/1/2/3/4/5 , 0/7/10/15/20
 
 You will get inside the `output` folder generated, a `.pdf` for each run, where you can find all the clusters/pixels fitted, and the different types of analysis of the 50% threshold with different plots, 
 
+<p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/ratescans.png" align="center" alt="drawing" width="650"/>
 
 Also a `.pdf` separated with all the analysed data together for all the runs, tabulated in one plot
@@ -60,10 +61,12 @@ You will get inside the `graphs` folder different outputs:
 
 * The fourier signal (of pedestal, and stdv), and also for the nanosecond scale, for randomly selected pixels, the Histogram of the high frequencies, with the main one specified, histograms of all the data, and camera plots
 
+<p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/allRuns.png" align="center" alt="drawing" width="1000"/>
 
 * Plots of the 60 seconds average for long runs (random pixels) and plots of the 300 last and first second analysis, with calculated ratios
-
+* 
+<p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/longRuns.png" align="center" alt="drawing" width="900"/>
 
 # Pedestal recovery
@@ -86,6 +89,7 @@ You will get inside the `graphs` folder different outputs:
 ### Output:
 In the `graphics` folder you will get, the pedestal and stdv in function of the dt, for all and individual pixels, and also a representation of mean values for all the pixels,
 
+<p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/pedestalRecovery.png" align="center" alt="drawing" width="1000"/>
 
 
