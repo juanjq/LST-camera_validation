@@ -86,6 +86,9 @@ You will get inside the `graphs` folder different outputs:
 ### Output:
 In the `graphics` folder you will get, 
 
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/allRuns.png" align="center" alt="drawing" width="1000"/>
+
+
 # Time resolution
 ### Instructions to use:
 (Note): Needed the `lstchain` environement in order to read R0 data.
