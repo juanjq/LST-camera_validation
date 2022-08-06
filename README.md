@@ -115,7 +115,7 @@ In the `graphics` folder you will get, the pedestal and stdv in function of the 
 ### Output:
 
 <p align="center">
-<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/timeResolution.png" align="center" alt="drawing" width="1000"/>
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/timeResolution.png" align="center" alt="drawing" width="870"/>
 </p>
 
 # CrossTalk
