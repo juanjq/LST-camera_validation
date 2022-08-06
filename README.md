@@ -93,7 +93,7 @@ In the `graphics` folder you will get, the pedestal and stdv in function of the 
 ### Instructions to use:
 (Note): Needed the `lstchain` environement in order to read R0 data.
 
-1. Copy the contents of github folder `dark-background_pedestal` in the same directory
+1. Copy the contents of github folder `pedestal_recovery` in the same directory
 
 2. First notebook to run is **`create_files_pedestal.ipynb`**, where we need to change the parameters,
     - `RUNS` the array of runs indexes we want to create the data
@@ -101,14 +101,10 @@ In the `graphics` folder you will get, the pedestal and stdv in function of the 
 
 3. Run all the notebook. (Pedestal analysis is slow, ~1h per subrun)
 
-4. Once all the files are created we can run all the notebook **`analysis_allRuns.ipynb`**, with the parameters,
+4. Once all the files are created we can run all the notebook **`analysis_pedestalRecovery.ipynb`**, with the parameters,
     - `RUNS` the array of runs indexes we want to analyse
     - `root` the complete path to all the folders with de data captured with the camera
-
-5. For the analysis of long runs, (the average over minutes, and the 300 last and first seconds), you need to run all the notebook **`analysis_longRuns.ipynb`**, with the parameters,
-    - `RUNS` array with the Long Runs
-    - `root` the complete path to all the folders with de data captured with the camera (with final `/`)
-
+    - `freq` the rate in Hz of the flasher 
 ### Output:
 
 
