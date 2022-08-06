@@ -93,7 +93,7 @@ You will get inside the `graphs` folder different outputs:
 In the `graphics` folder you will get, the pedestal and stdv in function of the dt, for all and individual pixels, and also a representation of mean values for all the pixels,
 
 <p align="center">
-<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/pedestalRecovery.png" align="center" alt="drawing" width="1000"/>
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/pedestalRecovery.png" align="center" alt="drawing" width="900"/>
 </p>
 
 # Time resolution
