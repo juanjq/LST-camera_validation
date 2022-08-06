@@ -86,7 +86,7 @@ You will get inside the `graphs` folder different outputs:
 ### Output:
 In the `graphics` folder you will get, 
 
-<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/allRuns.png" align="center" alt="drawing" width="1000"/>
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/pedestalRecovery.png" align="center" alt="drawing" width="1000"/>
 
 
 # Time resolution
