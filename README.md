@@ -3,7 +3,7 @@ Scripts to do the tests for the validation of the LST cameras.
 
 - [Rate scans analysis](#rate-scans-analysis)
 
-- [Dark pedestal & pedestal with background](#dark-pedestal-&-pedestal-with-background)
+- [Dark pedestal & pedestal with background](#dark-pedestal-and-pedestal-with-background)
 
 - [Pedestal recovery](#pedestal-recovery)
 
@@ -54,7 +54,7 @@ You will get inside the `output` folder generated, a `.pdf` for each run, where 
 
 Also a `.pdf` separated with all the analysed data together for all the runs, tabulated in one plot
 
-# Dark pedestal & pedestal with background
+# Dark pedestal and pedestal with background
 ### Instructions to use:
 (Note): Needed the `lstchain` environement in order to read R0 data.
 
