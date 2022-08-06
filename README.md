@@ -186,6 +186,7 @@ CSV files for each run with the timestamp of all events
 
 <p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/waveforms.png" align="center" alt="drawing" width="400"/>
+</p>
 
 ## For plotting an event on the camera
 ### Instructions:
@@ -203,7 +204,9 @@ CSV files for each run with the timestamp of all events
 ### Output:
 The plot of the mean waveform values for respective event plotted on the camera
 
+<p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/camera_plot.png" align="center" alt="drawing" width="400"/>
+</p>
 
 ---
 
