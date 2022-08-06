@@ -143,7 +143,7 @@ Inside the created `graphs` folder we find:
 * An example of the neighbors selection for some pixels
 
 <p align="center">
-<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk_neighbors.png" align="center" alt="drawing" width="350"/>
+<img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk_neighbors.png" align="center" alt="drawing" width="420"/>
 </p>
 
 * The histogram of the **%CrossTalk** defined as the formula below, for the 3 different neighbor cases
