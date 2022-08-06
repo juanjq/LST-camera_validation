@@ -168,7 +168,7 @@ Here I only did the script to extract the times data of a run, i.e. the time whe
     - `root` the complete path to all the folders with de data captured with the camera (with final `/`)
 
 ### Output:
-CSV files for each run with the timestamp of all events
+CSV files for each run with the timestamp of all events.
 
 
 # Camera plots
@@ -187,6 +187,7 @@ CSV files for each run with the timestamp of all events
 3. Go to the respective block for only 1 event plot or multiple plots, and run the notebook
 
 ### Output:
+he plot of the waveforms for all the pixels,
 
 <p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/waveforms.png" align="center" alt="drawing" width="500"/>
