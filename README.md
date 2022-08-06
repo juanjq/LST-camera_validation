@@ -32,6 +32,7 @@ You will get inside the `output` folder generated, a `.pdf` for each run, where 
 
 <p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/ratescans.png" align="center" alt="drawing" width="650"/>
+</p>
 
 Also a `.pdf` separated with all the analysed data together for all the runs, tabulated in one plot
 
@@ -63,11 +64,13 @@ You will get inside the `graphs` folder different outputs:
 
 <p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/allRuns.png" align="center" alt="drawing" width="1000"/>
+</p>
 
 * Plots of the 60 seconds average for long runs (random pixels) and plots of the 300 last and first second analysis, with calculated ratios
 * 
 <p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/longRuns.png" align="center" alt="drawing" width="900"/>
+</p>
 
 # Pedestal recovery
 ### Instructions to use:
@@ -91,7 +94,7 @@ In the `graphics` folder you will get, the pedestal and stdv in function of the 
 
 <p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/pedestalRecovery.png" align="center" alt="drawing" width="1000"/>
-
+</p>
 
 # Time resolution
 ### Instructions to use:
@@ -141,12 +144,13 @@ Inside the created `graphs` folder we find:
 
 <p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk_neighbors.png" align="center" alt="drawing" width="350"/>
+</p>
 
 * The histogram of the **%CrossTalk** defined as the formula below, for the 3 different neighbor cases
 
 <p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk.png" align="center" alt="drawing" width="550"/>
-
+</p>
 
 # Deadtime
 Here I only did the script to extract the times data of a run, i.e. the time where the events happen, not any more information. That is the only information we need to perform the Deadtime analysis
