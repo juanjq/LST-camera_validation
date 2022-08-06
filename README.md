@@ -113,6 +113,7 @@ In the `graphics` folder you will get, the pedestal and stdv in function of the 
     - `root` the complete path to all the folders with de data captured with the camera
 
 ### Output:
+In the `graphics` folder you will get, the arrival time of the peak inside one event, 
 
 <p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/timeResolution.png" align="center" alt="drawing" width="870"/>
