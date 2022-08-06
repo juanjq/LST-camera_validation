@@ -138,10 +138,13 @@ In the `graphics` folder you will get, the pedestal and stdv in function of the 
 Inside the created `graphs` folder we find:
 
 * An example of the neighbors selection for some pixels
+
+<p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk_neighbors.png" align="center" alt="drawing" width="350"/>
 
 * The histogram of the **%CrossTalk** defined as the formula below, for the 3 different neighbor cases
 
+<p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/CrossTalk.png" align="center" alt="drawing" width="550"/>
 
 
@@ -177,6 +180,7 @@ CSV files for each run with the timestamp of all events
 
 ### Output:
 
+<p align="center">
 <img src="https://github.com/juanjq/LST_camera_validation/blob/main/graphs/waveforms.png" align="center" alt="drawing" width="400"/>
 
 ## For plotting an event on the camera
