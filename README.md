@@ -37,7 +37,7 @@ Scripts to do the tests for the validation of the LST cameras.
 a
 ```
 date            HV          DAC     neighbor      gain
-y-m-d-h:min:s , HV/not_HV , 1/2/3 , 0/1/2/3/4/5 , 0/7/10/15/20
+y-m-d-h:min:s , HV/no_HV , 1/2/3 , 0/1/2/3/4/5 , 0/7/10/15/20
 ```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And this ones will be the runs that we are going to extract the data. Put this file in same directory of the scripts.
 
