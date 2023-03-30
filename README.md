@@ -43,7 +43,7 @@ y-m-d-h:min:s , HV/no_HV , 1/2/3 , 0/1/2/3/4/5 , 0/7/10/15/20
 
 4. Once we have this, we open the notebook **`main.ipynb`**, and complete the requiered parameters,
     - `data_type`, we use `='l0'` if we want to analyse the L0 or ipr runs (pixel analysis), and `='l1'` for the L1 data (cluster analysis)
-    - `data_path`, the full directory name where we have the rate scans data (without final '/'), for example, `'/.../.../results'`
+    - `data_dir`, the full directory name where we have the rate scans data (without final '/'), for example, `'/.../.../results'`
 
 5. Run all the notebook. Plots will be generated in a folder called `output` in same directory where you have the scripts
 
